@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
 	string correctPassword ="12345";
-	string enteredPassword;
+	string enteredPassword; 
 	int attempts = 0;
 	start :
 		if (attempts >=3){
