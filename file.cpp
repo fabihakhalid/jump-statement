@@ -3,7 +3,7 @@
 
 int main() {
     std::ofstream file("example.txt"); // Create and open a file
-    file << "Hello, file!\n"; // Write to the file
+    file << "Hello, file!\n"; // Write to the file 
     file.close(); // Close the file
 
     std::ifstream inputFile("example.txt"); // Open file for reading
