@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+ 
 int checkEvenodd(int num) {
 	if(num%2==0)
 	return 1;
