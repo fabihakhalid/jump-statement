@@ -8,7 +8,7 @@ int checkEvenodd(int num) {
 	return 0;
 	
 }
-int main(){
+int main(){ 
 	int num =6;
 	if(checkEvenodd(num))
 	cout<<"num"<<" is even" <<endl;
